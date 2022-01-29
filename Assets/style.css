@@ -95,10 +95,12 @@ p {
 
 
 .content {
+    line-height: 2;
+    white-space: normal;
     float: left;
     margin-left: 10%;
-    margin-bottom: 20px;
-    padding: 10px;
+    margin-bottom: 0px;
+    padding: 0px;
     height: 740px;
     width: 575px;
     font-family: fantasy;
@@ -107,6 +109,10 @@ p {
     border: 5px solid var(--h1);
     background-image: url("../Images/aboutmeBG.png");
     background-size: cover;
+}
+
+.content ol, li {
+    line-height: 0px;
 }
 
 .story-about-me {
@@ -121,6 +127,10 @@ p {
 .story-about-me h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.story-about-me p {
+    font-size: 12px;
 }
 
 .links {
@@ -186,6 +196,7 @@ p {
 }
 
 .workCreation {
+    overflow: scroll;
     float: left;
     margin-right: 5px;
     margin-top: 20px;
