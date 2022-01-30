@@ -8,4 +8,17 @@ This project a personal portfolio made using HTML, CSS, and JS. This project all
 [![portfolio-BC.png](https://i.postimg.cc/fR8mwmdj/portfolio-BC.png)](https://postimg.cc/sMZvmBwv)
 
 ## Deployment:
-https://chonac.github.io/Advanced-CSS-HM-2/
+
+* [GitHub Deployement][Github Deployed]
+* [Github Repo][github-repo]
+* [ChonaC Github][github]
+
+
+
+
+[GitHub Deployed]: https://chonac.github.io/Advanced-CSS-HM-2/
+[github-repo]: https://github.com/ChonaC/Advanced-CSS-HM-2
+[github]: https://github.com/ChonaC
+
+
+
